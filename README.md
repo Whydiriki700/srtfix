@@ -1,3 +1,5 @@
+![srtfix](assets/preview.png)
+
 # srtfix
 
 Subtitles drift, overlap, and arrive numbered like a crime scene. srtfix
